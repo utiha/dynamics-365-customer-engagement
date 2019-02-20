@@ -123,7 +123,6 @@ We released some capabilities of the legacy web client in the Unified Interface 
 There are certain capabilities that continue to be unavailable in the Unified Interface and we are working to provide these in future releases:
 
 - Audit Trail
--	Creating personal charts
 -	Custom styling of advanced chart properties (excluding colors and basic formatting)
 -	Reports entity (experiences to create and manage SSRS reports; excludes Run Report)
 -	Third-party search provider (Coveo search)
